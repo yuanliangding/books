@@ -5,5 +5,5 @@
 
 不过如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。~_^
 
-![Image text](https://raw.githubusercontent.com/yuanliangding/books/master/alipay_QR.jpg)
-![Image text](https://raw.githubusercontent.com/yuanliangding/books/master/weixin_QR.jpg)
+>>>>![Gift](https://raw.githubusercontent.com/yuanliangding/books/master/alipay_QR.jpg)
+>>>>![Gift](https://raw.githubusercontent.com/yuanliangding/books/master/weixin_QR.jpg)
