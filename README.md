@@ -3,7 +3,7 @@
 很喜欢和大家交流，很高兴和大家认识。
 这些资源来至互联网，都是免费分享。
 
-不过如果你喜欢我的资源，愿意赠送一给感谢费，我会更高兴。~_^
+不过如果你喜欢我的资源，愿意赠送一点点感谢费，我会很高兴。~_^
 
 <figure class="half">
   <img src="https://raw.githubusercontent.com/yuanliangding/books/master/alipay_QR.jpg" width="200px" height="300px" />
